@@ -35,6 +35,6 @@ public class calcMMcMDc {
 			}
 		}
 		int mmc = (base1+base2)/num1;
-		JOptionPane.showMessageDialog(null, "O MDC é: " + num1 + " O MMC é: "+mmc);
+		JOptionPane.showMessageDialog(null, "O MDC é: " + num1 + "O MMC é: "+mmc);
 	}
 }
